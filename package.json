@@ -1,0 +1,9 @@
+{
+  "name": "simple-validator",
+  "version": "1.0.0",
+  "description": "JavaScript Simple Validator",
+  "main": "index.js",
+  "author": "Aristo Caesar",
+  "license": "MIT",
+  "type": "module"
+}
